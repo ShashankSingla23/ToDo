@@ -1,4 +1,6 @@
-# ToDo hey!
-Shashank
-m ye bol rha hu ki jse humjab commit krke aage bhjde h but uss point pe hume apna phle vala code bhi chahiye to vo kaha se milega
-i want to get both old and new updated code.. qki let suppose if commit krne ke baad koi bug aa jae to purane code pe jaa sku!
+To-Do Task List --->
+
+• It is a task management tool. With the help of this tool, we can manage
+and set priority to our task in 4 different categories. This web tool also
+has local data persistence so that even if you close the app you will still
+have the task managed.
